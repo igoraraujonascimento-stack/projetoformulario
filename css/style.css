@@ -55,7 +55,7 @@ textarea {
 }
 
 .form-header p{
-    color: #673ab7;
+    color: greenyellow;
     border-bottom: 2px solid #673ab7;
     width: 100%;
     text-align: center;
@@ -100,7 +100,7 @@ textarea {
 }
 
 .btn-submit {
-    background-color: #673ab7;
+    background-color: greenyellow;
     color: #fff;
     border: 2px solid transparent;
     width: 150px;
@@ -112,6 +112,6 @@ textarea {
 
 .btn-submit:hover {
     background-color: #fff;
-    color: #673ab7;
-    border-color: #673ab7;
+    color: greenyellow;
+    border-color: greenyellow;
 }
